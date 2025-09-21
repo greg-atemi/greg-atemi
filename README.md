@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a Fullstack developer with DevOps experience. I am currently learning React Framework and Spring boot.
+I am a Fullstack developer with DevOps experience. 
+Currently skilled in Web development using Python-Django framework.
+I am currently learning React Framework and Spring boot frameworks.
 
 
 ## 🌐 Socials:
